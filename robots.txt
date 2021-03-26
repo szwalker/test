@@ -1,0 +1,3 @@
+User-agent: cis455crawler
+Disallow: /foo
+Crawl-delay: 5
